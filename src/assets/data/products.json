@@ -1,0 +1,43 @@
+[
+    {
+        "id" : "product001"
+        , "from": "Amazon"
+        , "name": "Embroidered Dress"
+        , "src" :"https://www.telegraph.co.uk/content/dam/fashion/2018/04/03/dress_trans_NvBQzQNjv4BqImq0gSBkzcH_-jHFXstKOOPHi_e1tpOIk75CAYQiDp0.jpg?imwidth=1240"
+        , "price": "$1400"
+        , "isWishItem" : true
+    },
+    {
+        "id" : "product002"
+        , "from": "Amazon"
+        , "name": "Trench coat"
+        , "src" :"https://www.telegraph.co.uk/content/dam/fashion/2018/04/03/2_2_trans_NvBQzQNjv4BqP7bZAonNGHMYSrJwrfETPDozVUu6GM4Nl-Nug4uCemo.jpg?imwidth=1240"
+        , "price": "$1200"
+        , "isWishItem" : true
+    },
+    {
+        "id" : "product003"
+        , "from": "Amazon"
+        , "name": "Check blazer"
+        , "src" :"https://www.telegraph.co.uk/content/dam/fashion/2018/04/03/1_2_trans_NvBQzQNjv4BqEfErTK9y_UY_UAjNuiqN28PQJZXVEN-v2bl-MbjnEBg.jpg?imwidth=1240"
+        , "price": "$1200"
+        , "isWishItem" : true
+    },
+    {
+        "id" : "product004"
+        , "from": "Amazon"
+        , "name": "Mint Cardigan"
+        , "src" :"https://www.telegraph.co.uk/content/dam/fashion/2019/01/18/main_trans_NvBQzQNjv4Bq1N-0BbrGahnullJmqzE3f-PHi_e1tpOIk75CAYQiDp0.jpg?imwidth=1400"
+        , "price": "$1200"
+        , "isWishItem" : false
+    },
+    {
+        "id" : "product005"
+        , "from": "Armed Angels"
+        , "name": "Rosaalie meadow flower dress"
+        , "src" :"https://www.telegraph.co.uk/content/dam/fashion/2019/01/15/TELEMMGLPICT000185659189_trans_NvBQzQNjv4Bqx1rGucoo2J_ExhuM2sOt-5Dg7ACGJPdPR4xgCzbOV8A.jpeg?imwidth=1400"
+        , "price": "$1200"
+        , "isWishItem" : false
+    }
+        
+]
